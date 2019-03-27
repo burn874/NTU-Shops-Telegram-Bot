@@ -1,0 +1,2 @@
+cd Telegram\Bot\Project
+nohup python3.6 NTUShops.py &
